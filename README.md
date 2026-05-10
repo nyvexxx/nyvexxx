@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>Cybersecurity tools & Windows internals research<br><br>🤝 I’m looking to collaborate on<br>Reverse engineering and low-level C/C++ projects<br><br>🌱 I’m currently learning<br>C, C++, Python, Rust & Windows internals<br><br>💬 Ask me about<br>Windows API, debugging, reverse engineering & systems programming<br><br>⚡ Fun fact<br>I like understanding software at the lowest level possible<br>
+🛠️ I’m currently working on<br>Cybersecurity tools & Windows internals research<br><br>🤝 I’m looking to collaborate on<br>Reverse engineering and High-level C/C++ projects<br><br>🌱 I’m currently learning<br>C, C++, Python, Rust & Windows internals<br><br>💬 Ask me about<br>Windows API, debugging, reverse engineering & systems programming<br><br>⚡ Fun fact<br>I like understanding software at the lowest level possible<br>
 
 
 ## 🌐 Socials:
